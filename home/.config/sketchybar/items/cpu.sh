@@ -1,0 +1,1 @@
+../../../dotfiles/sketchybar/items/cpu.sh

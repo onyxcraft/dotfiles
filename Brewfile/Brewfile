@@ -1,0 +1,87 @@
+tap "felixkratz/formulae"
+tap "nikitabobko/tap"
+# Improved shell history for zsh, bash, fish and nushell
+brew "atuin"
+# Bourne-Again SHell, a UNIX command interpreter
+brew "bash"
+# Clone of cat(1) with syntax highlighting and Git integration
+brew "bat"
+# Resource monitor. C++ version and continuation of bashtop and bpytop
+brew "btop"
+# Console-based Audio Visualizer for ALSA
+brew "cava"
+# Dependency manager for Cocoa projects
+brew "cocoapods"
+# Load/unload environment variables based on $PWD
+brew "direnv"
+# Modern, maintained replacement for ls
+brew "eza"
+# Simple, fast and user-friendly alternative to find
+brew "fd"
+# User-friendly command-line shell for UNIX-like operating systems
+brew "fish"
+# Manage Procfile-based applications
+brew "foreman"
+# Command-line fuzzy finder written in Go
+brew "fzf"
+# GitHub command-line tool
+brew "gh"
+# Distributed revision control system
+brew "git"
+# Open source programming language to build simple/reliable/efficient software
+brew "go"
+# CLI for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more
+brew "googleworkspace-cli"
+# Improved top (interactive process viewer)
+brew "htop"
+# Simple terminal UI for git commands
+brew "lazygit"
+# Music Player Daemon
+brew "mpd"
+# Ambitious Vim-fork focused on extensibility and agility
+brew "neovim"
+# Open-source, cross-platform JavaScript runtime environment
+brew "node"
+# Create, run, and share large language models (LLMs)
+brew "ollama"
+# Development kit for the Java programming language
+brew "openjdk"
+# Development kit for the Java programming language
+brew "openjdk@17"
+# Modern replacement for ps written in Rust
+brew "procs"
+# Search tool like grep and The Silver Searcher
+brew "ripgrep"
+# Professional grade Roblox development tools
+brew "rojo"
+# Safe, concurrent, practical language
+brew "rust"
+# Command-line tool to customize Spotify client
+brew "spicetify-cli"
+# Cross-shell prompt for astronauts
+brew "starship"
+# Organize software neatly under a single directory tree (e.g. /usr/local)
+brew "stow"
+# Terminal multiplexer
+brew "tmux"
+# Extremely fast Python package installer and resolver, written in Rust
+brew "uv"
+# Shell extension to navigate your filesystem faster
+brew "zoxide"
+# Custom macOS statusbar with shell plugin, interaction and graph support
+brew "felixkratz/formulae/sketchybar"
+# AeroSpace is an i3-like tiling window manager for macOS
+cask "nikitabobko/tap/aerospace"
+# Tools for building Android applications
+cask "android-studio"
+# Terminal-based AI coding assistant
+cask "claude-code"
+# App to build and share containerised applications and microservices
+cask "docker-desktop"
+# UI toolkit for building applications for mobile, web and desktop
+cask "flutter"
+cask "font-fira-code-nerd-font"
+cask "font-meslo-lg-nerd-font"
+# Web browser
+cask "google-chrome"
+uv "serena-agent"

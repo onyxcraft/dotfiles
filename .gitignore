@@ -1,0 +1,49 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Git
+.git/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.backup
+
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Neovim
+*.swp
+*.swo
+ Session.vim
+ .netrwhist
+
+# Secrets
+*.pem
+*.key
+.env
+.env.*
+secrets/
+private/
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Neovim specific
+nvim-data/
